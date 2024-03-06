@@ -1,0 +1,53 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sirena</title>
+</head>
+<body>
+
+
+    <style>
+
+    body
+    
+       *{
+        padding: 4;
+        margin: 4;
+       } 
+
+       .sire{
+        width: 1400;
+        height: 100;
+       }
+
+       #parr1{
+        font-size: 20px;
+        color: rgb(12, 175, 175);
+       }
+       #parr2{
+        font-size: 20px;
+        color: lightcoral;
+       }
+
+       h1, h2{
+        color: rgb(121, 93, 21);
+        text-align: center;
+       }
+
+       h3{
+        color: rgb(95, 68, 0);
+        text-align: center;
+       }
+
+       p{
+        font-size: 20px;
+        text-align: center;
+        color: brown;
+       }
+    </style>
+
+
+
+</body>
+</html>
